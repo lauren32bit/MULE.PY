@@ -1,4 +1,7 @@
 # MULE.PY 1.0
+A game for the Thumby miniature handheld gaming system.
+
+## Intro
 Once upon a time, a guy made a game like this for personal computers.
 Now, he is one of the 10 richest people in the world.
 Could this work for me? Only time will tell ...
